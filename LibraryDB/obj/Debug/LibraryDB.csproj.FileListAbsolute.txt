@@ -1,0 +1,11 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\bin\Debug\LibraryDB.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\bin\Debug\EntityFramework.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\bin\Debug\EntityFramework.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\obj\Debug\LibraryDB.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\LibraryDB\LibraryDB\obj\Debug\LibraryDB.pdb
